@@ -17,6 +17,24 @@
 |<img src="https://img.shields.io/badge/JavaScript-7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>|
 |<img src="https://img.shields.io/badge/JAVA-7DF1E?style=flat-square&logo=JAVA&logoColor=white"/>|
   
+<table>
+  <tr>
+    <th>제목</th>
+    <th>제목</th>
+    <th>제목</th>
+  </tr>
+  <tr>
+    <td>내용</td>
+    <td>내용</td>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <td>내용</td>
+    <td>내용</td>
+    <td>내용</td>
+  </tr>
+</table>
 
-
+  
+  
 </div>
