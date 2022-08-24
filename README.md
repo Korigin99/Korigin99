@@ -9,8 +9,8 @@
 ### 🖥️ Studying 🖥️
 <br>
 
-<div>
- <ul> 
+<div align=left>
+ <ul text-decoration=none> 
 <li><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a></li>
 <li><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a></li>
 <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a></li>
