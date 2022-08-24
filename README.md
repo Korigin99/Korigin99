@@ -20,7 +20,7 @@
 <table>
   <tr>
     <th><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></th>
-    <th rowspan=3> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korigin99&layout=compact)](https://github.com/Korigin99/github-readme-stats) </th>
+    <th rowspan=3> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korigin99&layout=compact)](https://github.com/Korigin99/github-readme-stats) </th>
   </tr>
   <tr>
     <td>내용</td>
