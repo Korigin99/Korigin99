@@ -8,13 +8,11 @@
 
 ### 🖥️ Studying 🖥️
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korigin99&layout=compact)](https://github.com/Korigin99/github-readme-stats)
   
 <table border=none>
   <tr>
     <td><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></th>
-    <td rowspan=7> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korigin99&layout=compact)](https://github.com/Korigin99/github-readme-stats) </td>
+    <td rowspan=7>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korigin99&layout=compact)](https://github.com/Korigin99/github-readme-stats)</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></td>
