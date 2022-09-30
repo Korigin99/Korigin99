@@ -1,6 +1,6 @@
 <div align=center>
   
-# korigin 
+# korigin - KIMGIWON
 <br>
 
 ### 🖥️ Studying 🖥️  
