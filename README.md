@@ -1,6 +1,6 @@
 <div align=center>
   
-# korigin - diary
+# korigin 
 
 ### 
 
@@ -12,10 +12,16 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-7DF1E?style=flat-square&logo=Java&logoColor=white"/>
-<br>  
-<br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korigin99&layout=compact)](https://github.com/Korigin99/github-readme-stats)
-  
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
+
+
+<!-- <div style="width: 300px;"> -->
+
+<!-- </div> -->
+<!-- <div style="width: 300px;"> -->
+
+![Korigin99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korigin99&show_icons=true&theme=white)
+
+<!-- </div> -->
 </div>
