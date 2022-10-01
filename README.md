@@ -1,6 +1,6 @@
-<div align=center>
+<div >
   
-# korigin - giwon Kim
+ 👋 Hello, I am Giwon Kim (김기원)
 <br>
 
 ### 🖥️ Studying 🖥️  
