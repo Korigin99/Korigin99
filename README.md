@@ -39,8 +39,8 @@
 <br>
 
 <!-- [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?logo=kakaotalk&logoColor=white)](https://namecard.kakao.com/kimgiwon) --> 
-[![Gmail](https://img.shields.io/badge/Email-rldnjs3413@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:rldnjs3413@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@K__origin-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/k__origin)
+[![Gmail](https://img.shields.io/badge/-rldnjs3413@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:rldnjs3413@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@K__origin-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/k__origin)
 
 
 </div> 
