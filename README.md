@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-1877F2?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 </div>
 
