@@ -13,6 +13,7 @@
   <br>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">  
