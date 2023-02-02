@@ -3,7 +3,7 @@
 ### 👋 Hello, I am Giwon Kim (김기원)
 
 
-### 🖥️ STACKS 🖥️  
+### 🖥️ SKILL & STACKS 🖥️  
 
 <br>
   
